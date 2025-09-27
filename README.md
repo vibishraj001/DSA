@@ -219,6 +219,138 @@ Advanced Data Structures like Trie, Segment Tree, Red-Black Tree and Binary Inde
 
 *******************
 
+
+Got it 👍 You want a 3-month structured roadmap to learn DSA in Java. Since you already know Java basics, we’ll make it focused, time-bound, and problem-oriented.
+
+Here’s a clear 12-week roadmap (3 months):
+
+🚀 3-Month DSA Roadmap (with Java)
+📍 Month 1 — Foundations (Weeks 1–4)
+
+Goal: Build strong basics, learn recursion, and simple DS.
+
+Week 1: Arrays + Complexity
+
+Big-O notation (time/space)
+
+Array operations: insertion, deletion, rotation
+
+Problems: Kadane’s algorithm, Two-Sum, Dutch National Flag
+
+Week 2: Strings + Recursion
+
+Strings: palindrome, anagram, substring search
+
+Java: StringBuilder, Character
+
+Recursion basics: factorial, Fibonacci, subsets
+
+Problems: Generate permutations, N-Queens (intro to backtracking)
+
+Week 3: Linked List
+
+Singly, Doubly, Circular LL
+
+Problems: reverse LL, detect cycle (Floyd’s algorithm), merge 2 LLs
+
+Week 4: Stack & Queue
+
+Stack (using array & LL), Queue, Deque
+
+Java: Stack, Queue, Deque
+
+Problems: Balanced Parentheses, Next Greater Element, Sliding Window Maximum
+
+📍 Month 2 — Core DSA (Weeks 5–8)
+
+Goal: Master key DS (Hashing, Trees, Heaps).
+
+Week 5: Hashing
+
+Java: HashMap, HashSet
+
+Problems: frequency counter, subarray sum, 2-sum (hashmap approach)
+
+Week 6: Trees (Binary Tree + BST)
+
+Traversals (inorder, preorder, postorder, level order)
+
+Problems: Height, Diameter, Lowest Common Ancestor
+
+BST: insertion, search, deletion
+
+Week 7: Heaps & Priority Queues
+
+Min-Heap, Max-Heap
+
+Problems: Kth largest element, Heap sort, Top-K frequent elements
+
+Week 8: Graphs
+
+Representations: adjacency list/matrix
+
+BFS, DFS
+
+Problems: connected components, cycle detection
+
+📍 Month 3 — Algorithms & Problem Solving (Weeks 9–12)
+
+Goal: Learn algorithms, DP, greedy, and practice intensively.
+
+Week 9: Sorting + Searching
+
+Sorting: Merge Sort, Quick Sort
+
+Binary Search patterns
+
+Problems: Search in Rotated Sorted Array, Median of 2 arrays
+
+Week 10: Greedy
+
+Interval scheduling, Activity selection
+
+Minimum Spanning Tree (Kruskal, Prim)
+
+Huffman Coding basics
+
+Week 11: Dynamic Programming (DP Basics)
+
+Fibonacci (memoization, tabulation)
+
+Knapsack (0/1), Coin Change
+
+LCS, LIS
+
+Week 12: Advanced DP + Mixed Practice
+
+Problems: Matrix Chain Multiplication, DP on Strings
+
+Graph DP (shortest path, Dijkstra, Bellman-Ford)
+
+Mock contests + LeetCode 50-100 problems
+
+📍 Daily Routine (2–3 hrs/day)
+
+30 min → Revise theory/DS concept
+
+90 min → Solve 3–4 problems (mix of easy/medium)
+
+30 min → Revise + maintain notes
+
+📍 Platforms
+
+Learning: GeeksforGeeks, NeetCode (YouTube)
+
+Practice: LeetCode, Codeforces (for speed), InterviewBit
+
+⚡ By the end of 3 months:
+
+You’ll know all standard DSA topics.
+
+You’ll solve 150–200 problems (enough for strong interviews).
+
+You’ll be able to implement any DS in Java.
+
 Trie
 Segment Tree
 Red-Black Tree
